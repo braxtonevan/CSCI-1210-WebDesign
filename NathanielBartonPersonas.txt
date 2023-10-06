@@ -1,0 +1,33 @@
+PERSONA
+Name:			Kate Anderson
+Age:			9
+Gender:			Female
+Occupation:		Student
+Goal:			Finish school report on frogs
+Technical proficiency:	Average
+
+Likes:
+Animals, Chex Mix, Libraries, Creeks
+Dislikes:
+Noisy environments, deforestation, pickles, math class
+
+"I wanna take care of all the plants and animals that
+ I can!"
+
+PERSONA
+Name:			Ruby Parsons
+Age:			23
+Gender:			Nonbinary
+Occupation:		Graduate Student
+Major:			Biology
+Goal:			Explore the page, tentative intention
+			to purchase merchandise (stumbled onto
+			the page during a research session)
+Technical Proficiency:	Above-average
+Likes:
+Reptiles, Krispy Kreme, Academic Literature, Runescape
+Dislikes:
+Soy sauce, Evangelists, Pyramid Schemes, Dealerships
+
+"As I live and breathe, I will never stop learning or
+ improving myself."
