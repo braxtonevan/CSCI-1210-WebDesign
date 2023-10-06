@@ -10,6 +10,10 @@ Likes:
 Animals, Chex Mix, Libraries, Creeks
 Dislikes:
 Noisy environments, deforestation, pickles, math class
+Accessibility concerns:
+Kate is young, and is diagnosed with mild autism. It is
+important for the page to be readable for young children,
+many of whom would be expected to visit the site.
 
 "I wanna take care of all the plants and animals that
  I can!"
@@ -24,10 +28,17 @@ Goal:			Explore the page, tentative intention
 			to purchase merchandise (stumbled onto
 			the page during a research session)
 Technical Proficiency:	Above-average
+
 Likes:
 Reptiles, Krispy Kreme, Academic Literature, Runescape
 Dislikes:
 Soy sauce, Evangelists, Pyramid Schemes, Dealerships
+Accessibility concerns:
+Ruby requires strong perscription glasses for their poor
+eyesight, but prefers not to wear them for prolonged
+periods of time (i.e. research sessions). The page should
+be available in large print (or simply be large print by
+default) to accommodate concerns like this.
 
 "As I live and breathe, I will never stop learning or
  improving myself."
