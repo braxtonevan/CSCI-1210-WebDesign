@@ -25,7 +25,7 @@
   
 ### Website Needs and Expectations:
 - **Content:** Detailed and accurate information about various frog species, high-quality images, and educational materials
-- **Functionality:** Easy navigation, interactive elements (quizzes, forums), mobile-friendly design
+- **Functionality:** Easy navigation, interactive elements (quizzes, forums) if possible, mobile-friendly design
 - **Aesthetics:** Nature-themed color scheme, clean and organized layout, visually appealing images and infographics
 - **Community:** Forum or community section where frog enthusiasts can share experiences, photos, and knowledge
 
