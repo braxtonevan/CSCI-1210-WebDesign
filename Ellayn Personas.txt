@@ -1,0 +1,19 @@
+Persona 1
+
+Name - Susan Grey
+Age - 20
+Occupation - Student
+Goal - Her goal is to graduate with a degree in biology
+Technical proficiency - Intermediate
+Likes - Likes animals and enjoys volunteering at the local animal shelter
+Catchphrase - Unlocking the secrets of the animal kingdom, one curiosity at a time.
+
+Persona 2
+
+Name - Ethan Yellowstone
+Age - 10
+Occupation - Student
+Goal - His goal is to become a herpetologist in the future
+Technical proficiency - Basic
+Likes - Likes frogs and enjoys being outside
+Catchphrase - Hopping through life with a passion for frogs and a love for nature!
