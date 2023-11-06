@@ -1,0 +1,11 @@
+Persona 1
+
+Name - Susan Grey
+Usability Concern -Susan has color blindness and has a hard time distingushing between certain colors. 
+Resolution - Have the text and background colors contrast for readablity
+
+Persona 2 
+
+Name - Ethan Yellowstone
+Usability Concern - Ethan is young and doesn't know complicated words. 
+Resolution - The vocabulary shouldn't be too advanced so children can read it.
