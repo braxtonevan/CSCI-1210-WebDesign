@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title><mossyfrogs class="html"></mossyfrogs></title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Times New Roman", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+</style>
+</head>
+<body>
+
+<div class="w3-top">
+  <div class="w3-bar w3-black w3-card w3-left-align w3-large">
+    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-white">Fun Facts</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Home</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Merch</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Credits</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">More Frogs</a>
+  </div>
+
+  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Fun Facts</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Home</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Merch</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Credits</a>
+  </div>
+</div>
+
+<header class="w3-container w3-light-green w3-center" style="padding:128px 16px">
+  <h1 class="w3-margin w3-jumbo">Mossy Frogs</h1>
+</header>
+
+<div class="w3-row-padding w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-twothird">
+      <h1>Behavior</h1>
+      <h5 class="w3-padding-32"> The Mossy Frog is a species found in northern Vietnam. While these creatues may look harmless, they  are actually one of the most venmous species of frogs in the world. Active at night, these semi-aquatic frogs spend most of the day hiding in the water under rocks or attached to niches in rock outcroppings where they appear to be part of the moss growing on the rock. Mossy frogs hunt large insects such as crickets and cockroaches They also attach to plants floating on the surface of the stream.
+      <p class="w3-text-grey"></p>
+    </div>
+
+    <div class="w3-third w3-center">
+        <img src="images/mossyfrog1.jpg" alt="Mossy Frog 1">
+      <i class="images/mossyfrog1.jpg"></i>
+    </div>
+  </div>
+</div>
+
+<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-third w3-center">
+      <i class=""></i>
+      <img src="images/nossyfrog2.jpg" alt="Mossy Frog 2">
+    </div>
+
+    <div class="w3-twothird">
+      <h1>Habitat</h1>
+      <h5 class="w3-padding-32"> The Mossy Frog is a species found in northern Vietnam. Vietnamese mossy frogs are found in flooded caves and in the banks of rocky mountain streams at elevations of 2,300 to 3,280 feet (700 to 1,000 meters). They are extremely cold tolerant, however, and can handle temperatures down into the 50's. Mossy Frogs inhabit mountainous, evergreen primary rainforests, where there are exposed limestone outcroppings that have been cut through the steep cliffs by mountain streams.</h5>
+
+      <p class="w3-text-grey"></p>
+    </div>
+  </div>
+</div>
+
+<div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
+    <h1 class="w3-margin w3-xlarge">Sources: </h1>
+    <ol>https://www.aquariumofpacific.org/onlinelearningcenter/species/mossy_frog#:~:text=Active%20at%20night%2C%20these%20semi,the%20surface%20of%20the%20stream.</ol>
+    <ol>https://nationalzoo.si.edu/animals/vietnamese-mossy-frog</ol>
+    <ol>https://www.greaterclevelandaquarium.com/5-things-about-vietnamese-mossy-frogs/</ol>
+    <ol>https://www.zillarules.com/information/care-sheets/vietnamese-mossy-frog#:~:text=It's%20important%20to%20create%20a,room%20temperature%20with%20no%20heating.</ol>
+</div>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("navDemo");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+</script>
+
+</body>
+</html>
